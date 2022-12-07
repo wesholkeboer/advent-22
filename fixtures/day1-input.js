@@ -1,4 +1,4 @@
-const input = `2991
+export const input = `2991
 13880
 13279
 1514

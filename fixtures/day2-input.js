@@ -1,4 +1,4 @@
-const input = `A Z
+export const input = `A Z
 C X
 A Z
 A Z

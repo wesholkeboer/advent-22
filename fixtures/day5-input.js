@@ -1,4 +1,4 @@
-const input = `[H]                 [Z]         [J]
+export const input = `[H]                 [Z]         [J]
 [L]     [W] [B]     [G]         [R]
 [R]     [G] [S]     [J] [H]     [Q]
 [F]     [N] [T] [J] [P] [R]     [F]

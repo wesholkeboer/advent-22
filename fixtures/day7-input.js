@@ -1,4 +1,4 @@
-const input = `$ cd /
+export const input = `$ cd /
 $ ls
 dir brhvclj
 dir clnvqg
